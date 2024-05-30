@@ -66,4 +66,4 @@ A chatbot use LLM to genarate answer for Vietnamese question. The concept of que
 
 # **Evaluate**
     *Metric BLEU score 
-    ![image](https://github.com/duysop/Chatbot/assets/103120531/8dfe55f9-825a-4f64-8c70-956c0e2e0259)
+![image](https://github.com/duysop/Chatbot/assets/103120531/8dfe55f9-825a-4f64-8c70-956c0e2e0259)
